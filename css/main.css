@@ -77,10 +77,25 @@ h2 {
   padding: 0.5em;
 }
 
+
 h3 {
   font-size: 0.7em;
   text-align: center;
   color: #6AEAF6;
+
+}
+
+h4 {
+  margin: 0;
+}
+
+dd {
+margin: 0;
+}
+
+
+dt {
+  padding: 0.5em;
 }
 
 p {
