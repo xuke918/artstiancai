@@ -22,14 +22,17 @@ h1 {
   text-shadow: 0 2px 3px rgba(0,0,0,0.8);
 }
 
+nav {
 
+  background-color: #6AEAF6;
+}
 
 ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
   overflow: hidden;
-  background-color: #6AEAF6;
+
 }
 
 nav a {
@@ -40,11 +43,13 @@ nav a {
   text-align: center;
   width: 100%;
   color: #fff;
+  border-left: 1px solid #fff;
+
 }
 
 nav li {
   float: left;
-  width: 31%;
+  width: 33.3%;
 
 }
 
@@ -82,17 +87,18 @@ h3 {
   font-size: 0.7em;
   text-align: center;
   color: #6AEAF6;
-
 }
+
 
 h4 {
   margin: 0;
 }
 
+
 dd {
 margin: 0;
-}
 
+}
 
 dt {
   padding: 0.5em;
