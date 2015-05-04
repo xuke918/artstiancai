@@ -14,27 +14,53 @@ body {
 
 h1 {
   margin: 0;
+  text-align: center;
+  background-color: #FFEC00;
 
+  text-shadow: 0 2px 3px rgba(0,0,0,0.8);
 }
+
+
 
 ol {
   margin: 0;
   padding: 0;
   list-style-type: none;
   overflow: hidden;
-
+  background-color: #6AEAF6;
 }
 
 nav a {
   text-decoration: none;
-  padding: 0.3em;
+  padding: 0.4em;
   margin: 0;
   display: block;
   text-align: center;
   width: 100%;
+  color: #fff;
 }
 
-li {
+nav li {
   float: left;
-  width: 30%;
+  width: 31%;
+
+}
+
+nav a:hover {
+  background-color: #FF75FF;
+  color: black;
+}
+
+h2 {
+  margin: 0;
+  font-size: 1em;
+
+}
+
+strong {
+  font-size: 1.1em;
+}
+
+img {
+  width: 50%;
 }
