@@ -130,7 +130,12 @@ p {
   padding: 0.5em;
 
 }
+
 .logo3 {
   width: 10%;
   float: right;
+}
+
+.map {
+  width: 100%;
 }
