@@ -123,3 +123,9 @@ p {
   padding: 0.5em;
 
 }
+
+.logo2 {
+position: relative;
+left: 130px;
+width: 10%;
+}
