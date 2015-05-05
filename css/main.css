@@ -81,6 +81,12 @@ img {
   width: 50%;
 }
 
+div img {
+  width: 100%;
+}
+
+
+
 .left {
   float: left;
 }
@@ -124,7 +130,7 @@ p {
   padding: 0.5em;
 
 }
-
-div img{
-  width: 100%;
+.logo3 {
+  width: 10%;
+  float: right;
 }
