@@ -20,7 +20,7 @@ h1 {
   padding: 1em 1.5em 1em 1.5em;
 
   text-shadow: 0 2px 3px rgba(0,0,0,0.8);
-  font-size: 3em;
+  font-size: 4em;
 }
 
 .banner {
@@ -103,6 +103,7 @@ h4 {
   padding: 0;
   margin: 0.5em 0 0 0;
   color: #1467BC;
+  font-size: 1.2em;
 }
 
 h5 {
@@ -127,7 +128,7 @@ p {
 
 .logo2 {
 position: relative;
-left: 250px;
-width: 10%;
+left: 280px;
+width: 5%;
 display: block;
 }
