@@ -10,6 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+
 }
 
 h1 {
@@ -33,7 +34,7 @@ nav ul {
   padding: 0;
   list-style-type: none;
   overflow: hidden;
-
+  padding: 0.2em;
 }
 
 nav a {
@@ -113,21 +114,13 @@ h4 {
 
 h5 {
   margin: 0;
+  text-align: center;
 }
 
-
-dd {
-margin: 0;
-
-}
-
-dt {
-  padding: 0.5em;
-}
 
 p {
   margin: 0;
-  padding: 0.5em;
+  padding: 1em;
 
 }
 
@@ -136,9 +129,15 @@ p {
   float: right;
 }
 
+dl {
+  padding-left: 1em;
+  margin: 0;
+
+}
+
 .map {
   width: 100%;
-  padding: 0;
+
 }
 
 footer {
