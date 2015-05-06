@@ -7,11 +7,12 @@ html {
   box-sizing: inherit;
 }
 
+
 body {
   margin: 0;
   padding: 0;
-
 }
+
 
 h1 {
   margin: 0;
@@ -23,47 +24,11 @@ h1 {
   font-size: 5em;
 }
 
+
 .banner {
   width: 100%;
 }
 
-
-
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  overflow: hidden;
-  padding: 0.2em;
-}
-
-nav a {
-  text-decoration: none;
-  padding: 0.6em;
-  margin: 0;
-  display: block;
-  text-align: center;
-  width: 100%;
-  color: #fff;
-  border-left: 1px solid #fff;
-  font-size: 1.5em;
-
-
-}
-
-nav li {
-  float: left;
-  width: 50%;
-  border: 0.2em solid #fff;
-  border-radius: 0.65em;
-  background-color: #6AEAF6;
-
-}
-
-nav a:hover {
-  background-color: #FF75FF;
-  color: black;
-}
 
 h2 {
   margin: 0;
@@ -73,34 +38,12 @@ h2 {
   color: #fff;
 }
 
-strong {
-  font-size: 1.05em;
-  color: #0A59A0;
-}
-
-img {
-  width: 50%;
-}
-
-div img {
-  width: 100%;
-}
-
-
-
-.left {
-  float: left;
-}
-
-
 
 h3 {
   font-size: 1em;
   text-align: center;
   color: black;
 }
-
-
 
 
 h4 {
@@ -118,11 +61,69 @@ h5 {
 }
 
 
+strong {
+  font-size: 1.05em;
+  color: #0A59A0;
+}
+
+
+img {
+  width: 50%;
+}
+
+.left {
+  float: left;
+}
+
+
+div img {
+  width: 100%;
+}
+
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0.2em;
+}
+
+
+nav li {
+  float: left;
+  width: 50%;
+  border: 0.2em solid #fff;
+  border-radius: 0.65em;
+  background-color: #6AEAF6;
+}
+
+
+nav a {
+  text-decoration: none;
+  padding: 0.6em;
+  margin: 0;
+  display: block;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  border-left: 1px solid #fff;
+  font-size: 1.5em;
+}
+
+
+nav a:hover {
+  background-color: #FF75FF;
+  color: black;
+}
+
+
 p {
   margin: 0;
   padding: 1em;
 
 }
+
 
 .logo3 {
   width: 10%;
@@ -132,12 +133,10 @@ p {
 dl {
   padding-left: 1em;
   margin: 0;
-
 }
 
 .map {
   width: 100%;
-
 }
 
 footer {
