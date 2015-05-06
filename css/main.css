@@ -61,9 +61,6 @@ h5 {
 }
 
 
-
-
-
 .text {
   margin: 0.3em;
   text-align: center;
@@ -135,7 +132,7 @@ nav li {
   float: left;
   width: 33.3%;
   border: 0.2em solid #fff;
-  border-radius: 0.65em;
+  border-radius: 1em;
   background-color: #6AEAF6;
 }
 
