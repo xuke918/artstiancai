@@ -40,9 +40,9 @@ h2 {
 
 
 h3 {
-  font-size: 1em;
+  font-size: 2em;
   text-align: center;
-  color: black;
+  color: #037017;
 }
 
 
@@ -52,7 +52,7 @@ h4 {
   padding: 0;
   margin: 0.5em 0 0 0;
   color: #1467BC;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 h5 {
@@ -61,11 +61,24 @@ h5 {
 }
 
 
-strong {
+
+
+
+.text {
+  text-align: center;
   font-size: 1.5em;
-  color: #0A59A0;
+  color: #037017;
 }
 
+p {
+  padding-left: 10px;
+
+}
+
+.contact {
+  font-size: 1.5em;
+  color: #037017;
+}
 
 img {
   width: 50%;
@@ -118,12 +131,6 @@ nav a:hover {
 }
 
 
-p {
-  margin: 0;
-  padding: 0;
-
-}
-
 
 .logo3 {
   width: 10%;
@@ -142,6 +149,9 @@ dl {
 footer {
   background-color: #FFEC00;
   text-align: center;
-  padding: 3em;
+  padding: 1em;
   margin: 0;
+  font-size: 3em;
+
+
 }
