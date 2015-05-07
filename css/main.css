@@ -38,6 +38,30 @@ h2 {
   color: #fff;
 }
 
+.guanyu {
+  background-color: #6AEAF6;
+}
+
+.zuopin {
+  background-color: #FF75FF;
+}
+
+.huodong {
+  background-color: #77A141;
+}
+
+.kechen {
+  background-color: #FE7D29;
+}
+
+.jiazhang {
+  background-color: #9B62CA;
+}
+
+.lianxi {
+  background-color: #6AEAF6;
+}
+
 
 h3 {
   font-size: 2em;
@@ -48,10 +72,10 @@ h3 {
 
 h4 {
   text-align: center;
-  background-color: #CAFAFC;
+  background-color: #8DAF5D;
   padding: 0;
   margin: 0.5em 0 0 0;
-  color: #1467BC;
+  color: #fff;
   font-size: 2em;
 }
 
@@ -60,13 +84,36 @@ h5 {
   text-align: center;
 }
 
-
 .text {
+  color: #9B62CA;
+  font-size: 1.5em;
+}
+
+.text_1 {
   margin: 0.3em;
   text-align: center;
-  font-size: 1.5em;
-  color: #037017;
+  font-size: 3em;
+  color: #F26E31;
 }
+
+.text_2 {
+  margin: 0.3em;
+  text-align: center;
+  font-size: 3em;
+  color: #77A141;
+}
+
+.text_3 {
+  margin: 0.3em;
+  text-align: center;
+  font-size: 3em;
+  color: #C21F34;
+}
+
+
+
+
+
 
 .text2 {
   margin: 0.3em;
@@ -164,6 +211,7 @@ nav a:hover {
 
 .logo4 {
   width: 15%;
+
 }
 
 
