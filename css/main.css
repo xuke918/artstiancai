@@ -47,7 +47,7 @@ h2 {
 }
 
 .huodong {
-  background-color: #77A141;
+  background-color: #3BD7B9;
 }
 
 .kechen {
@@ -92,41 +92,59 @@ h5 {
 .text_1 {
   margin: 0.3em;
   text-align: center;
-  font-size: 3em;
+  font-size: 2.5em;
   color: #F26E31;
 }
 
 .text_2 {
   margin: 0.3em;
   text-align: center;
-  font-size: 3em;
+  font-size: 2.5em;
   color: #77A141;
 }
 
 .text_3 {
   margin: 0.3em;
   text-align: center;
-  font-size: 3em;
+  font-size: 2.5em;
   color: #C21F34;
 }
-
-
-
-
 
 
 .text2 {
   margin: 0.3em;
   text-align: center;
-  font-size: 1.5em;
-  color: #032223;
+  font-size: 2em;
+  color: #3BD7B9;
+}
+
+.text_4 {
+  font-size: 1.3em;
+  color: #5FB0FF;
+  margin-bottom: 0.8em;
+  padding-left: 15px;
+}
+
+.text_5 {
+  font-size: 1.3em;
+  color: #366AE2;
+  margin-bottom: 0.8em;
+  padding-left: 15px;
+}
+
+.text_6 {
+  font-size: 1.3em;
+  color: #9B62CA;
+  padding-left: 15px;
 }
 
 
+
 .text3 {
-  margin: 1em 0.3em 1em 0.3em;
-  color: #1467BC;
+  margin: 1.5em 0.5em 1.5em 0.5em;
+  color: #C90912;
   font-size: 1.3em;
+  padding-left: 15px;
 
 }
 
@@ -137,20 +155,37 @@ h5 {
 }
 
 
+.text_7 {
+  font-size: 1.3em;
+  color: #9B62CA;
+  margin: 1.5em;
 
+  padding-left: 15px;
+  text-align: center;
+}
 
 
 p {
   padding-left: 10px;
   margin: 0;
-
 }
 
 .contact {
   margin-top: 0.3em;
   font-size: 1.5em;
-  color: #037017;
+  color: #366AE2;
+  text-align: left;
+  padding: 0.5em 1em 0.2em 2em;
 }
+
+.google{
+  font-size: 1.2em;
+  margin-top: 0.7em;
+  margin-bottom: 0.5em;
+  padding-left: 2.3em;
+}
+
+
 
 img {
   width: 50%;
@@ -222,11 +257,7 @@ dl {
   margin: 0;
 }
 
-.google{
-  font-size: 1.2em;
-  margin-top: 0.7em;
-  margin-bottom: 0.5em;
-}
+
 
 .map {
   width: 100%;
