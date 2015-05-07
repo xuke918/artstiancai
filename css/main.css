@@ -273,6 +273,14 @@ footer {
 
 }
 
+.top {
+  width: 20%;
+}
+
+.text_8 {
+  font-size: 0.5em;
+  color: lightgreen;
+}
 
 
 .para {
