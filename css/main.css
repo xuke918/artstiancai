@@ -178,13 +178,6 @@ p {
   padding: 0.5em 1em 0.2em 2em;
 }
 
-.google{
-  font-size: 1.2em;
-  margin-top: 0.7em;
-  margin-bottom: 0.5em;
-  padding-left: 2.3em;
-}
-
 
 
 img {
@@ -249,7 +242,14 @@ nav a:hover {
 
 }
 
+.logo5 {
+  width: 15%;
+  position: relative;
+  right: -280px;
+  display: block;
 
+
+}
 
 
 dl {
@@ -273,6 +273,14 @@ footer {
 
 }
 
+.google{
+  font-size: 1.5em;
+  margin-top: 0.7em;
+  margin-bottom: 0.5em;
+  padding-left: 2.1em;
+}
+
+
 .top {
   width: 20%;
 }
@@ -288,6 +296,4 @@ footer {
   position: relative;
   width: 30%;
   top: -90px;
-
-
 }
