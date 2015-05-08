@@ -82,8 +82,6 @@ h4 {
 h5 {
   margin: 0;
   text-align: center;
-  font-size: 2em;
-  color: #FE7D29;
 }
 
 .text {
@@ -170,7 +168,6 @@ h5 {
 p {
   padding-left: 10px;
   margin: 0;
-  color: #603813;
 }
 
 .contact {
@@ -268,7 +265,10 @@ dl {
 
 footer {
   background-color: #FFEC00;
-
+  text-align: center;
+  padding: 1em;
+  margin: 0;
+  font-size: 3em;
 }
 
 
@@ -280,8 +280,7 @@ footer {
 
 
 .top {
-     width: 20%;
-
+  width: 20%;
 }
 
 
