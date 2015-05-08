@@ -159,10 +159,16 @@ h5 {
   font-size: 1.3em;
   color: #9B62CA;
   margin: 1.5em;
-
   padding-left: 15px;
   text-align: center;
 }
+
+.text_9 {
+  font-size: 1.5em;
+  padding-bottom: 20px;
+  color: #9B62CA;
+}
+
 
 
 p {
