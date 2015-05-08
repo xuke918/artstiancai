@@ -82,11 +82,13 @@ h4 {
 h5 {
   margin: 0;
   text-align: center;
+  font-size: 2em;
+  color: #FE7D29;
 }
 
 .text {
   color: #9B62CA;
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 
 .text_1 {
@@ -168,6 +170,7 @@ h5 {
 p {
   padding-left: 10px;
   margin: 0;
+  color: #603813;
 }
 
 .contact {
@@ -265,30 +268,75 @@ dl {
 
 footer {
   background-color: #FFEC00;
-  text-align: center;
-  padding: 1em;
-  margin: 0;
-  font-size: 3em;
-
 
 }
 
-
-
-
-.top {
-  width: 20%;
-}
 
 .text_8 {
   font-size: 0.5em;
   color: #009344;
+  clear: both;
 }
 
 
-.para {
+.top {
+     width: 20%;
+
+}
+
+
+.box-1 {
+  margin-bottom: 40px;
+}
+
+.box-2 {
+  margin-bottom: 40px;
+}
+
+.box-3 {
+  margin-bottom: 80px;
+}
+
+.box-4 {
+  margin-bottom: 80px;
+}
+
+.box-5 {
+  margin-bottom: 65px;
+}
+
+.box-1 img {
   float: left;
-  position: relative;
-  width: 30%;
-  top: -90px;
+  margin: 15px;
+  width: 19.5%;
+}
+
+.box-1 img {
+  float: left;
+  margin: 15px;
+  width: 19.5%;
+}
+
+.box-2 img {
+  float: left;
+  margin: 15px;
+  width: 19.5%;
+}
+
+.box-3 img {
+  float: left;
+  margin: 15px;
+  width: 19.5%;
+}
+
+.box-4 img {
+  float: left;
+  margin: 15px;
+  width: 19.5%;
+}
+
+.box-5 img {
+  float: left;
+  margin: 15px;
+  width: 19.5%;
 }
