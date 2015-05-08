@@ -82,6 +82,9 @@ h4 {
 h5 {
   margin: 0;
   text-align: center;
+  font-size: 1.5em;
+  color: grey;
+  padding-bottom: 10px;
 }
 
 .text {
@@ -164,7 +167,7 @@ h5 {
 }
 
 .text_9 {
-  font-size: 1.5em;
+  font-size: 1em;
   padding-bottom: 20px;
   color: #9B62CA;
 }
