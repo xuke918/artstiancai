@@ -172,7 +172,7 @@ p {
 
 .contact {
   margin-top: 0.3em;
-  font-size: 1.5em;
+  font-size: 2em;
   color: #366AE2;
   text-align: left;
   padding: 0.5em 1em 0.2em 2em;
@@ -243,9 +243,9 @@ nav a:hover {
 }
 
 .logo5 {
-  width: 15%;
+  width: 22%;
   position: relative;
-  right: -280px;
+  right: -150px;
   display: block;
 
 
@@ -273,12 +273,7 @@ footer {
 
 }
 
-.google{
-  font-size: 1.5em;
-  margin-top: 0.7em;
-  margin-bottom: 0.5em;
-  padding-left: 2.1em;
-}
+
 
 
 .top {
@@ -287,7 +282,7 @@ footer {
 
 .text_8 {
   font-size: 0.5em;
-  color: lightgreen;
+  color: #009344;
 }
 
 
