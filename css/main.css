@@ -166,17 +166,19 @@ h5 {
 
 
 .text_7 {
-  font-size: 1.3em;
+  font-size: 2.5em;
   color: #9B62CA;
-  margin: 1.5em;
-  padding-left: 15px;
+  margin: 1.25em 1.25em 0 1.25em;
+  padding: 15px;
   text-align: center;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.4);
+
 }
 
 .text_9 {
-  font-size: 1em;
+  font-size: 1.5em;
   padding-bottom: 20px;
-  color: #9B62CA;
+  color: #652C90;
 }
 
 
@@ -192,7 +194,7 @@ p {
   color: #006738;
   text-align: left;
   padding: 0.5em 1em 0.2em 2em;
-  text-shadow: 0 2px 3px rgba(0,0,0,0.3);
+
 }
 
 
@@ -279,10 +281,14 @@ nav a:hover {
 
 
 .logo4 {
-  width: 16%;
+  width: 10%;
+
 
 
 }
+
+
+
 
 figcaption {
   font-size: 0.9em;
@@ -290,6 +296,7 @@ figcaption {
   padding-left: 15px;
   margin: 0;
   color: darkblue;
+
 }
 
 
