@@ -323,6 +323,12 @@ dl {
   width: 100%;
 }
 
+.barcode {
+  width: 100%;
+
+}
+
+
 footer {
   background-color: #FFEC00;
   text-align: center;
