@@ -1,0 +1,110 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 'Merriweather', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  margin: 0;
+  text-align: center;
+  background-color: #FFEC00;
+  color: #fff;
+  padding: 0.5em;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.8);
+  font-size: 6em;
+}
+
+.logo7 {
+  width: 100%;
+}
+
+
+
+
+h2 {
+  margin: 0;
+  padding: 0.7em;
+  font-size: 2em;
+  background-color: #FF75FF;
+  color: #fff;
+}
+
+.guanyu {
+  background-color: #6AEAF6;
+}
+
+
+
+
+
+.text {
+  margin: 0.3em;
+  text-align: center;
+  font-size: 2em;
+  color: #3BD7B9;
+}
+
+.text_1 {
+  font-size: 1.3em;
+  color: #5FB0FF;
+  margin-bottom: 0.8em;
+  padding-left: 15px;
+}
+
+.text_2 {
+  font-size: 1.3em;
+  color: #366AE2;
+  margin-bottom: 0.8em;
+  padding-left: 15px;
+}
+
+.text_3 {
+  font-size: 1.3em;
+  color: #9B62CA;
+  padding-left: 15px;
+}
+
+
+
+p {
+  padding-left: 10px;
+  margin: 0;
+}
+
+
+
+.logo3 {
+  width: 10%;
+  float: right;
+}
+
+
+footer {
+  background-color: #FFEC00;
+  text-align: center;
+  padding: 1em;
+  margin: 0;
+  font-size: 3em;
+}
+
+
+footer p{
+  font-size: 0.5em;
+  color: #009344;
+  clear: both;
+}
+
+
+.top {
+  width: 20%;
+}
