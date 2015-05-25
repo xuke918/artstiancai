@@ -57,14 +57,14 @@ h2 {
 .text_1 {
   font-size: 1.3em;
   color: #5FB0FF;
-  margin-bottom: 0.8em;
+  margin-bottom: 3em;
   padding-left: 15px;
 }
 
 .text_2 {
   font-size: 1.3em;
   color: #366AE2;
-  margin-bottom: 0.8em;
+  margin-bottom: 3em;
   padding-left: 15px;
 }
 
@@ -72,6 +72,7 @@ h2 {
   font-size: 1.3em;
   color: #9B62CA;
   padding-left: 15px;
+  margin-bottom: 3em;
 }
 
 
