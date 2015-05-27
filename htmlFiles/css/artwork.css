@@ -33,11 +33,16 @@ h2 {
   color: #fff;
 }
 
-h3 {
+button {
   font-size: 2em;
-  text-align: center;
-  color: #037017;
+  margin: 1em;
+  border-radius: 0.5em;
+  background-color: pink;
 }
+
+
+
+
 p {
   padding-left: 10px;
   margin: 0;
