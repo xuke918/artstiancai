@@ -1,0 +1,91 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 'Merriweather', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  margin: 0;
+  text-align: center;
+  background-color: #FFEC00;
+  color: #fff;
+  padding: 0.5em;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.8);
+  font-size: 6em;
+}
+
+h2 {
+  margin: 0;
+  padding: 0.7em;
+  font-size: 2em;
+  background-color: #FF75FF;
+  color: #fff;
+}
+
+.jiazhang {
+  background-color: #9B62CA;
+}
+
+.text_7 {
+  font-size: 2.5em;
+  color: #9B62CA;
+  margin: 1.25em 1.25em 0 1.25em;
+  padding: 15px;
+  text-align: center;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.4);
+
+}
+
+.text_9 {
+  font-size: 1.5em;
+  padding-bottom: 20px;
+  color: #652C90;
+}
+
+figcaption {
+  font-size: 0.9em;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin: 0;
+  color: darkblue;
+}
+
+
+
+p {
+  padding-left: 10px;
+  margin: 0;
+}
+
+
+.logo4 {
+  width: 10%;
+}
+
+footer {
+  background-color: #FFEC00;
+  text-align: center;
+  padding: 0.5em 0 0.5em 0;
+  margin: 0;
+  font-size: 3em;
+}
+
+.top {
+  width: 20%;
+}
+
+.text_8 {
+  font-size: 0.5em;
+  color: #009344;
+  clear: both;
+}
