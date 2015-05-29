@@ -28,16 +28,14 @@ h1 {
   width: 100%;
 }
 
-nav {
 
-}
 
 a {
-
   font-size: 1.2em;
   text-decoration: none;
   color: #fff;
 }
+
 
 ul {
   text-align: center;
@@ -46,16 +44,12 @@ ul {
 }
 
 
-
-
 li {
   border: 0.5em solid #6AEAF6;
   list-style-type: none;
   display: inline;
   background-color: #6AEAF6;
   border-radius: 0.4em;
-
-
 }
 
 .li1 {
@@ -85,8 +79,6 @@ li {
 
 
 
-
-
 h2 {
   margin: 0;
   padding: 0.7em;
@@ -98,8 +90,6 @@ h2 {
 .guanyu {
   background-color: #6AEAF6;
 }
-
-
 
 
 
@@ -139,10 +129,7 @@ p {
 }
 
 
-.logo3 {
-  width: 10%;
-  float: right;
-}
+
 
 
 footer {
