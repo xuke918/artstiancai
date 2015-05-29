@@ -23,3 +23,11 @@ h1 {
   text-shadow: 0 2px 3px rgba(0,0,0,0.8);
   font-size: 3em;
 }
+
+img {
+  width: 50%;
+}
+
+.left {
+  float: left;
+}
