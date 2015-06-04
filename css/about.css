@@ -31,8 +31,9 @@ h1 {
 
 ul {
   margin: 0;
-  padding: 0.8em 0 2.5em 0;
+  padding: 2em 0 2.5em 1em;
   background-color: #FBE902;
+
 }
 
 
@@ -77,13 +78,13 @@ li {
 a {
   text-decoration: none;
   font-size: 2em;
- padding-right: 0.25em;
+  padding-right: 0.5em;
 }
 
 
 .back {
   width: 10%;
-
+  float: left;
 
 }
 
