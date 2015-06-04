@@ -31,20 +31,19 @@ h1 {
 
 ul {
   margin: 0;
-  padding: 0.8em;
+  padding: 0.8em 0 2.5em 0;
   background-color: #FBE902;
 }
 
 
 
-
 li {
   display: inline;
-
 }
 
-.li1 {
 
+
+.li1 {
   color: #6AEAF6;
 
 }
@@ -120,27 +119,27 @@ h2 {
   font-size: 1.3em;
   color: #5FB0FF;
   margin-bottom: 5em;
-  padding-left: 15px;
+  padding: 15px;
 }
 
 .text_2 {
   font-size: 1.3em;
   color: #366AE2;
   margin-bottom: 5em;
-  padding-left: 15px;
+  padding: 15px;
 }
 
 .text_3 {
   font-size: 1.3em;
   color: #9B62CA;
-  padding-left: 15px;
+  padding: 15px;
   margin-bottom: 5em;
 }
 
 
 
 p {
-  padding: 20px;
+
   margin: 0;
 }
 
