@@ -27,9 +27,10 @@ h1 {
 h2 {
   margin: 0;
   padding: 0.7em;
-  font-size: 2em;
+  font-size: 2.5em;
   background-color: #FF75FF;
   color: #fff;
+  text-align: center;
 }
 
 .jiazhang {
@@ -47,13 +48,14 @@ h2 {
 }
 
 .text_9 {
-  font-size: 1.5em;
+  padding-left: 30px;
+  font-size: 2.5em;
   padding-bottom: 20px;
   color: #652C90;
 }
 
 figcaption {
-  font-size: 0.9em;
+  font-size: 1.5em;
   padding-bottom: 10px;
   padding-left: 15px;
   margin: 0;
@@ -88,4 +90,64 @@ footer {
   font-size: 0.5em;
   color: #009344;
   clear: both;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2em;
+  padding-right: 0.75em;
+}
+
+
+ul {
+  margin: 0;
+  padding: 2.5em 0 2em 0;
+  background-color: #FBE902;
+  text-align: center;
+}
+
+
+
+li {
+  display: inline;
+}
+
+
+
+.li1 {
+  color: #6AEAF6;
+
+}
+
+.li2 {
+  color: #FF75FF;
+
+}
+
+.li3 {
+  color: #3BD7B9;
+
+}
+
+.li4 {
+  color: #FE7D29;
+
+}
+
+.li5 {
+  color: #9B62CA;
+
+}
+
+.li6 {
+  color: #02A54F;
+
+}
+
+.back {
+  position: relative;
+  top: -15px;
+  width: 15%;
+  float: left;
+  display: block;
 }
