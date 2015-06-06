@@ -80,7 +80,7 @@ footer {
   text-align: center;
   padding: 0.5em 0 0.5em 0;
   margin: 0;
-  font-size: 3em;
+
 }
 
 .top {
@@ -88,7 +88,7 @@ footer {
 }
 
 .text_8 {
-  font-size: 0.5em;
+  font-size: 1em;
   color: #009344;
   clear: both;
 }

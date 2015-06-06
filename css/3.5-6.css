@@ -74,3 +74,23 @@ li {
   color: #FE7D29;
 
 }
+
+
+footer {
+  background-color: #FFEC00;
+  text-align: center;
+  padding-bottom: 0.3em;
+  margin: 0;
+}
+
+
+.text_8 {
+  font-size: 1em;
+  color: #009344;
+  clear: both;
+}
+
+
+.top {
+  width: 15%;
+}
