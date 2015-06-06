@@ -24,13 +24,14 @@ h1 {
   font-size: 6em;
 }
 
+
 h2 {
   margin: 0;
   padding: 0.7em;
   font-size: 2.5em;
   background-color: #FF75FF;
   color: #fff;
-  text-align: center;
+
 }
 
 .jiazhang {
@@ -145,6 +146,7 @@ li {
 }
 
 .back {
+  padding: 15px;
   position: relative;
   top: -15px;
   width: 15%;

@@ -31,7 +31,7 @@ h2 {
   font-size: 2em;
   background-color: #FF75FF;
   color: #fff;
-  text-align: center;
+
 }
 
 
@@ -142,6 +142,7 @@ li {
 }
 
 .back {
+  padding: 15px;
   position: relative;
   top: -15px;
   width: 15%;
