@@ -29,9 +29,10 @@ h1 {
 h2 {
   margin: 0;
   padding: 0.7em;
-  font-size: 2em;
+  font-size: 2.5em;
   background-color: #FF75FF;
   color: #fff;
+  text-align: center;
 }
 
 
@@ -77,15 +78,15 @@ nav {
 }
 
 a {
-
-  font-size: 1.2em;
   text-decoration: none;
-  color: #fff;
+  font-size: 2em;
+  padding-right: 0.75em;
 }
+
 
 ul {
   margin: 0;
-  padding: 2em 0 2.5em 1em;
+  padding: 2.5em 0 2em 0;
   background-color: #FBE902;
   text-align: center;
 }
@@ -128,18 +129,12 @@ li {
 
 }
 
-
-a {
-  text-decoration: none;
-  font-size: 2em;
-  padding-right: 0.3em;
-}
-
-
 .back {
-  width: 10%;
+  position: relative;
+  top: -15px;
+  width: 15%;
   float: left;
-
+  display: block;
 }
 
 
