@@ -92,11 +92,6 @@ a {
 
 
 
-
-
-
-
-
 h2 {
   margin: 0;
   padding: 0.3em;
@@ -146,10 +141,11 @@ h2 {
 footer {
   background-color: #FFEC00;
   text-align: center;
-  padding-bottom: 0.5em 0 0.5em 0;
+  padding: 0.5em 0 0.5em 0;
   margin: 0;
   font-size: 3em;
 }
+
 
 
 footer p{
@@ -157,6 +153,7 @@ footer p{
   color: #009344;
   clear: both;
 }
+
 
 
 .top {
