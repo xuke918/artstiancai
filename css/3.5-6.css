@@ -31,3 +31,46 @@ img {
 .left {
   float: left;
 }
+
+
+a {
+  text-decoration: none;
+  font-size: 2em;
+  padding-right: 3em;
+}
+
+
+ul {
+  margin: 0;
+  padding: 2.5em 0 2em 0;
+  background-color: #FBE902;
+  text-align: center;
+}
+
+
+
+li {
+  display: inline;
+}
+
+
+
+.li1 {
+  color: #6AEAF6;
+
+}
+
+.li2 {
+  color: #FF75FF;
+
+}
+
+.li3 {
+  color: #3BD7B9;
+
+}
+
+.li4 {
+  color: #FE7D29;
+
+}
