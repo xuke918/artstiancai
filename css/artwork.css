@@ -67,7 +67,6 @@ img {
 }
 
 
-
 footer {
   background-color: #FFEC00;
   text-align: center;
@@ -77,12 +76,13 @@ footer {
 }
 
 
+
 .text_8 {
-  font-size: 1em;
-  color: #009344;
-  clear: both;
-  padding-bottom: 30px;
-}
+    font-size: 1.2em;
+    color: #009344;
+    padding: 0 0 20px 0;
+  }
+
 
 
 .top {
@@ -91,6 +91,7 @@ footer {
 
 
 a {
+  color: blue;
   text-decoration: none;
   font-size: 2em;
   padding-right: 0.75em;

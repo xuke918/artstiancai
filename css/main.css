@@ -173,13 +173,11 @@ h5 {
 }
 
 
-
-.text_8 {
-  font-size: 0.8em;
-  color: #009344;
-  clear: both;
-  padding: 0 0 20px 0;
-}
+.text_8{
+    font-size: 1.2em;
+    color: #009344;
+    padding: 0 0 20px 0;
+  }
 
 
 .text_9 {
@@ -321,12 +319,14 @@ dl {
   width: 100%;
 }
 
+
 footer {
   background-color: #FFEC00;
   text-align: center;
+  padding: 0.5em 0 0.5em 0;
   margin: 0;
-}
 
+}
 
 
 
