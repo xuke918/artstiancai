@@ -172,6 +172,16 @@ h5 {
 
 }
 
+
+
+.text_8 {
+  font-size: 0.8em;
+  color: #009344;
+  clear: both;
+  padding: 0 0 20px 0;
+}
+
+
 .text_9 {
   font-size: 1.5em;
   padding-bottom: 20px;
@@ -314,18 +324,11 @@ dl {
 footer {
   background-color: #FFEC00;
   text-align: center;
-
   margin: 0;
-  font-size: 3em;
 }
 
 
-.text_8 {
-  font-size: 0.3em;
-  color: #009344;
-  clear: both;
 
-}
 
 
 .top {
