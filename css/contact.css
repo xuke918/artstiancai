@@ -85,8 +85,9 @@ footer {
 
 a {
   text-decoration: none;
-  font-size: 2em;
+  font-size: 0.9em;
   padding-right: 0.75em;
+  text-decoration: underline;
 }
 
 
