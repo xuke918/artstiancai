@@ -14,24 +14,22 @@ body {
 }
 
 
-h1 {
-  margin: 0;
-  text-align: center;
-  background-color: #FFEC00;
-  color: #fff;
-  padding: 0.5em;
-  text-shadow: 0 2px 3px rgba(0,0,0,0.8);
-  font-size: 6em;
-}
-
-
 h2 {
   margin: 0;
   padding: 0.7em;
   font-size: 2em;
   background-color: #FF75FF;
   color: #fff;
+}
 
+h3 {
+  margin: 0;
+  text-align: center;
+  background-color: #FFEC00;
+  color: #fff;
+  padding: 0.5em;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.8);
+  font-size: 2em;
 }
 
 
