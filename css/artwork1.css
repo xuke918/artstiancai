@@ -50,7 +50,7 @@ img {
 a {
   text-decoration: none;
   font-size: 1.5em;
-  padding-right: 1.5em;
+  padding-right: 1em;
 }
 
 
@@ -69,12 +69,12 @@ li {
 
 
 .li1 {
-  color: #6AEAF6;
+  color: #FF75FF;
 
 }
 
 .li2 {
-  color: #6AEAF6;
+  color: #FE7D29;
 
 }
 
@@ -84,7 +84,7 @@ li {
 }
 
 .li4 {
-  color: #FF75FF;
+  color: #9B62CA;
 
 }
 
@@ -94,7 +94,7 @@ li {
 }
 
 .li6 {
-  color: #FE7D29;
+  color: #02A54F;
 
 }
 

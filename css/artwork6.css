@@ -35,8 +35,8 @@ img {
 
 a {
   text-decoration: none;
-  font-size: 2em;
-  padding-right: 1.5em;
+  font-size: 1.5em;
+  padding-right: 1em;
 }
 
 
@@ -54,27 +54,35 @@ li {
 }
 
 
-
 .li1 {
-  color: #6AEAF6;
-
-}
-
-.li2 {
   color: #FF75FF;
 
 }
 
-.li3 {
-  color: #3BD7B9;
-
-}
-
-.li4 {
+.li2 {
   color: #FE7D29;
 
 }
 
+.li3 {
+  color: #6AEAF6;
+
+}
+
+.li4 {
+  color: #9B62CA;
+
+}
+
+.li5 {
+  color: #3BD7B9;
+
+}
+
+.li6 {
+  color: #02A54F;
+
+}
 
 footer {
   background-color: #FFEC00;
