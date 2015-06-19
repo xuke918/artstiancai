@@ -31,19 +31,20 @@ h2 {
 
 
 img {
-  width: 50%;
-}
-
-.full {
   width: 100%;
 }
 
 
-
-
 .right {
+  width: 50%;
   float: right;
 }
+
+.left {
+  width: 50%;
+  float: left;
+}
+
 
 
 a {
