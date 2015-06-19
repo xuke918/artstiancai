@@ -34,6 +34,13 @@ img {
   width: 50%;
 }
 
+.full {
+  width: 100%;
+}
+
+
+
+
 .right {
   float: right;
 }
