@@ -24,12 +24,18 @@ h1 {
   font-size: 3em;
 }
 
-img {
-  width: 100%;
+h2 {
+  text-align: center;
+  color: grey;
 }
 
-.left {
-  float: left;
+
+img {
+  width: 50%;
+}
+
+.right {
+  float: right;
 }
 
 
