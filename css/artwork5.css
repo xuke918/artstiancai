@@ -13,6 +13,10 @@ body {
   padding: 0;
 }
 
+header {
+  margin-bottom: 1em;
+}
+
 
 h1 {
   margin: 0;
@@ -105,4 +109,12 @@ footer {
 
 .top {
   width: 15%;
+}
+
+.back {
+  position: relative;
+  top: 20px;
+  width: 15%;
+  float: left;
+  display: block;
 }
