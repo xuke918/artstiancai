@@ -34,10 +34,11 @@ h3 {
 
 
 button {
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 1em;
   border-radius: 0.5em;
   background-color: pink;
+  padding: 0 100px 0 100px;
 }
 
 
