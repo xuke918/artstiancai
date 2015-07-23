@@ -45,7 +45,7 @@ a{
   }
 
 
-  ul {
+ul {
     margin: 0;
     padding: 2.5em 0 2em 0;
     background-color: #FBE902;
@@ -54,44 +54,44 @@ a{
 
 
 
-  li {
+li {
     display: inline;
   }
 
 
 
-  .li1 {
+.li1 {
     color: #6AEAF6;
 
   }
 
-  .li2 {
+.li2 {
     color: #FF75FF;
 
   }
 
-  .li3 {
+.li3 {
     color: #3BD7B9;
 
   }
 
-  .li4 {
+.li4 {
     color: #FE7D29;
 
   }
 
-  .li5 {
+.li5 {
     color: #9B62CA;
 
   }
 
-  .li6 {
+.li6 {
     color: #02A54F;
 
   }
 
 
-  .back {
+.back {
     padding: 15px;
     position: relative;
     top: -15px;
@@ -114,6 +114,7 @@ h5 {
 p {
   padding-left: 10px;
   margin: 0;
+  color: #78A241;
 }
 
 .text4 {
@@ -221,7 +222,7 @@ table {
 tr {
   display: block;
   font-size: 1.2em;
-  color: red;
+
 }
 
 td {
@@ -229,7 +230,14 @@ td {
   font-size: 1.2em;
 }
 
-.1 {
+.hello {
+  padding: 0.8em;
   font-size: 1.5em;
+  color: #B880B7;
+
+}
+
+b {
+  color: #F36E32;
 
 }
